@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanieldeMarko
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Numpy, Pandas
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning QA Software Tester
 - 💞️ I’m looking to collaborate on for my new job      
 - 📫 How to reach me daniel.de.marko@hotmail.com
 
